@@ -20,16 +20,12 @@ I design and modernize resilient, secure, and scalable platforms for enterprise 
 
 Building and sharing Cloud Native & Open Source knowledge across **LATAM and the Caribbean**.
 
----
-
 ## 🚀 Featured
 
 🐳 **Docker Agent** — Building, running and distributing AI agents with containers.
 
 [![Book](https://img.shields.io/badge/Leanpub-Docker_Agent-111111?style=flat-square&logo=leanpub)](https://leanpub.com/dockeragent)
 [![GitHub](https://img.shields.io/badge/GitHub-docker--agent-111111?style=flat-square&logo=github)](https://github.com/vsrecio/docker-agent)
-
----
 
 <div align="center">
 
