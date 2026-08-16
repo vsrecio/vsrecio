@@ -6,8 +6,6 @@
 
 I design and modernize resilient, secure, and scalable platforms for enterprise and mission-critical environments.
 
----
-
 ## 🧰 Technology Stack
 
 <div align="center">
@@ -15,8 +13,6 @@ I design and modernize resilient, secure, and scalable platforms for enterprise 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,openshift,terraform,ansible,linux,go,prometheus,grafana&perline=12" />
 
 </div>
-
----
 
 ## 🌎 Open Source
 
