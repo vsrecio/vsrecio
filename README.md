@@ -31,19 +31,6 @@ My work sits at the intersection of **software architecture, cloud infrastructur
 I previously worked as a **Microsoft Cloud Solution Architect (CSA)** and have worked on architecture, modernization, migration, reliability, and Cloud Native initiatives across **the United States, the Caribbean, and Latin America**, including highly regulated and enterprise environments.
 
 I'm also a **Docker Captain** and **KubeAstronaut**, with a strong focus on sharing practical Cloud Native knowledge with the engineering community.
-
-```text
-$ whoami
-
-Role        → Cloud & Software Architect / Senior SRE
-Focus       → Cloud Native · Kubernetes · Platform Engineering
-Reliability → SRE · Observability · Resilience · Automation
-Cloud       → Azure · Hybrid Cloud · Enterprise Modernization
-Code        → Go · Python · Shell
-AI          → AI Agents · AI Infrastructure · Agent Governance
-Mission     → Build platforms that scale technically and strategically
-```
-
 ---
 
 ## 🧭 Architecture & Engineering Focus
