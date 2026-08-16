@@ -8,16 +8,6 @@
 
 I design and modernize resilient, secure, and scalable platforms for enterprise and mission-critical environments.
 
-</div>
-
----
-
-## 🧭 Architecture
-
-**TOGAF** · **BIAN** · ArchiMate · Sparx EA · Archi
-
-`Enterprise Architecture` · `Software Architecture` · `Cloud Architecture`
-
 ---
 
 ## 🧰 Technology Stack
