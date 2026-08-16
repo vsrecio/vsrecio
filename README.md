@@ -25,52 +25,13 @@ Former **Microsoft Cloud Solution Architect**, currently working on enterprise a
 
 ---
 
-## 🧭 Focus
-
-<p align="center">
-
-☁️ **Cloud Architecture**  
-☸️ **Kubernetes & Cloud Native**  
-⚙️ **SRE & Platform Engineering**  
-🔐 **Security & Governance**  
-📊 **Observability & FinOps**  
-🤖 **AI Infrastructure & AI Agents**
-
-</p>
-
----
-
 ## 🧰 Core Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,azure,terraform,ansible,linux,go,python,postgres,grafana,prometheus,git&perline=12" />
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,azure,terraform,ansible,linux,go,postgres,azure,aws,gcp,grafana,prometheus,git&perline=12" />
 
 </div>
-
----
-
-## 🏗️ Architecture
-
-```text
-                 ┌───────────────────────┐
-                 │     Business Value    │
-                 └───────────┬───────────┘
-                             │
-                      🏗 Architecture
-                             │
-          ┌──────────────────┼──────────────────┐
-          │                  │                  │
-      ☁️ Cloud           ☸️ Platform        🔐 Security
-          │                  │                  │
-          └──────────────────┼──────────────────┘
-                             │
-                     ⚙️ Reliability
-                             │
-                     📊 Observability
-                             │
-                       🤖 Automation
-```
 
 ---
 
