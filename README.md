@@ -1,16 +1,41 @@
-## Hi there 👋
+# Victor S. Recio
 
-<!--
-**vsrecio/vsrecio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & Software Architect | Senior SRE | Docker Captain | KubeAstronaut
 
-Here are some ideas to get you started:
+I design and modernize production platforms using
+Cloud Native architectures, Kubernetes, containers,
+DevOps/SRE practices and AI infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Cloud & Software Architecture
+- Kubernetes & Cloud Native Platforms
+- Platform Engineering / SRE
+- DevOps & Infrastructure Automation
+- Application Modernization
+- FinOps & Cloud Optimization
+- AI Infrastructure & AI Agents
+
+## Open Source & Community
+
+Docker Captain · Kubernetes Community Leader
+
+Creator and contributor to Cloud Native education
+and open-source initiatives across LATAM and the Caribbean.
+
+## Current Work
+
+Building architectures, platforms and engineering practices
+for enterprise environments and mission-critical workloads.
+
+## Featured
+
+- Docker Agent
+- Cloud Native Architecture
+- Kubernetes
+- AI Agent Governance
+- Golang
+
+## Connect
+
+Website · LinkedIn · X · Publications
