@@ -1,5 +1,3 @@
-<div align="center">
-
 # Victor S. Recio
 
 ### Cloud & Software Architect · Senior SRE · Docker Captain · KubeAstronaut
@@ -42,11 +40,8 @@ Building and sharing Cloud Native & Open Source knowledge across **LATAM and the
 ### 🌐 Connect
 
 [![Website](https://img.shields.io/badge/vsr.lat-111111?style=flat-square)](https://vsr.lat/)
-[![Website](https://img.shields.io/badge/vsrec.io-111111?style=flat-square)](https://vsrec.io/)
 [![GitHub](https://img.shields.io/badge/@vsrecio-111111?style=flat-square&logo=github)](https://github.com/vsrecio)
 
 <br>
 
 **Architecture → Platforms → Reliability**
-
-</div>
