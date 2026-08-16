@@ -18,16 +18,6 @@ I design and modernize resilient, secure, and scalable platforms for enterprise 
 
 </div>
 
-<br>
-
-**Cloud** — AWS · Azure · GCP  
-**Platforms** — Kubernetes · OpenShift · Rancher · Fedora CoreOS  
-**DevOps** — Docker · Terraform · Ansible · Argo CD  
-**Security** — Falco · OPA  
-**Storage** — Rook · Ceph  
-**Observability** — Prometheus · Grafana  
-**Engineering** — Golang · Linux
-
 ---
 
 ## 🌎 Open Source
